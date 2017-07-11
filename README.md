@@ -1,4 +1,4 @@
-m# Welcome to the Simple Linear-Regression Readme!
+# Welcome to the Simple Linear-Regression Readme!
 
 Simple Linear Regression Model is also called as Linear Regression Model or Regression or LM Model or Linear Model. Whats is Regression? Ans.Regression is nothing but the Prediction.
 
