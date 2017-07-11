@@ -2,17 +2,18 @@
 
 Simple Linear Regression Model is also called as Linear Regression Model or Regression or LM Model or Linear Model. Whats is Regression? Ans.Regression is nothing but the Prediction.
 
-For Applying SLR,
+## Getting Started
+**For Applying SLR,
 
-Data Type must be Numeric or Continuous.
-There should be One dependent variable and One independent variable
+Data Type must be ***Numeric*** or ***Continuous***.
+There should be ***One dependent variable and One independent variable***
 The Linear relation between two variables which is a relation between dependent and independent variable.
 
-Note: In SLR the model can have only one dependent variable and one independent variable.
+***Note: In SLR the model can have only one dependent variable and one independent variable.***  
 
 ### SLR can be defined as,
 
-Y = α + β(x)
+**Y = α + β(x)**
 
 
 Where ,
@@ -24,8 +25,9 @@ x -> Independent Variable
 So here,  
 The variable Y is dependent on independent variable x.  
 Both variable must be Numeric & Continuous   
+### SLR using R,
 We create a relationship model using the lm() functions in R,  
-fit <- lm(formula=speed~dist,data=cars)  
+**fit <- lm(formula=speed~dist,data=cars)**  
 Basically we are looking for R-squared measure just to see how close the data are to the fitted regression line. It is also known as the coefficient of determination.  
 It is defined as, R-squared = Explained variation / Total variation  
 Total variation = Explained variation + Unexplained variation
