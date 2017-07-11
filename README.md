@@ -66,5 +66,6 @@ abline(fit)
 par(mfrow=c(2,2))
 plot((fit))
 ````
-
+Out Put:
+![Simple Linear Regression Out put](https://github.com/soumyasethy/Linear-Regression/blob/master/Screen%20Shot%202017-07-11%20at%207.17.09%20PM.png)
 
