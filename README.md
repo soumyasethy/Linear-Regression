@@ -44,7 +44,7 @@ Both variable must be Numeric & Continuous
 ![Simple Linear Regression preview17](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview17.png)
 
 
-
+![Simple Linear Regression preview17](https://github.com/soumyasethy/Linear-Regression/blob/master/Screen%20Shot%202017-07-11%20at%207.17.09%20PM.png)
 
 
 
