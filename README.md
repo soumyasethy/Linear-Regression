@@ -25,6 +25,6 @@ So here,
 The variable Y is dependent on independent variable x.  
 Both variable must be Numeric & Continuous  
  
-![Simple Linear Regression preview1](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/Preview1.png) 
+![Simple Linear Regression preview1](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview1.png) 
 
 
