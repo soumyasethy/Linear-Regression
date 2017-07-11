@@ -1,11 +1,13 @@
-#############Simple linear regression model###########
-
+#############Applying Simple linear regression model###########
+rm(list = ls())
 #Reading CSV File 
 library(readr)
 cars <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
 #View imported Data
 View(cars)
 data(cars)
+head(cars)
+tail(cars)
 #Checking Number of Rows
 nrow(cars)
 #Checking Number of Columns
@@ -18,6 +20,7 @@ summary(cars)
 is.na(cars)
 is.na(cars$speed)
 is.na(cars$dist)
+na.omit(cars)
 #Check linear trend by ploting graph
 plot(cars$speed)
 plot(cars$dist,col="red")
