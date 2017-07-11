@@ -5,15 +5,16 @@ Simple Linear Regression Model is also called as Linear Regression Model or Regr
 ## Getting Started
 **For Applying SLR,**  
 
-Data Type must be ***Numeric*** or ***Continuous***.  
-There should be ***One dependent variable and One independent variable***  
+* Data Type must be ***Numeric*** or ***Continuous***.  
+* There should be ***One dependent variable and One independent variable***  
+
 The Linear relation between two variables which is a relation between dependent and independent variable.  
 
 ***Note: In SLR the model can have only one dependent variable and one independent variable.***  
 
 ### SLR can be defined as,
 
-**Y = α + β(x)**
+** Y = α + β(x) **
 
 
 Where ,
