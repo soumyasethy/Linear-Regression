@@ -55,7 +55,7 @@ Total variation = Explained variation + Unexplained variation
 ![Simple Linear Regression preview12](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview12.png)  
 ![Simple Linear Regression preview13](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview13.png)  
 ![Simple Linear Regression preview14](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview14.png)    
-
+![Simple Linear Regression preview15](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview15.png)  
 ![Simple Linear Regression preview16](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview16.png)  
 ![Simple Linear Regression preview17](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview17.png)
 
