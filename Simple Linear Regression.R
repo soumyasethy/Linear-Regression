@@ -1,5 +1,5 @@
 #############Applying Simple linear regression model###########
-rm(list = ls())
+rm(list = ls()) 
 #Reading CSV File 
 library(readr)
 cars <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
