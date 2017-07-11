@@ -1,11 +1,12 @@
 # Welcome to the Simple Linear-Regression Readme!
 
 Simple Linear Regression Model is also called as Linear Regression Model or Regression or LM Model or Linear Model.  
+
+
+## Getting Started  
 Whats is Regression?  
 Ans.In statistical modeling, regression analysis is a statistical process for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or 'predictors').  
 Regression is nothing but the Prediction.  
-
-## Getting Started
 **For Applying SLR,**  
 
 * Data Type must be ***Numeric*** or ***Continuous***.  
