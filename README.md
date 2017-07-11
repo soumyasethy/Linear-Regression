@@ -30,7 +30,10 @@ Both variable must be Numeric & Continuous
 ![Simple Linear Regression preview3](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview3.png)  
 ![Simple Linear Regression preview4](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview4.png)  
 ![Simple Linear Regression preview5](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview5.png)  
-![Simple Linear Regression preview6](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview6.png)
+![Simple Linear Regression preview6](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview6.png)  
+![Simple Linear Regression preview7](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview7.png)  
+![Simple Linear Regression preview8](https://github.com/soumyasethy/Linear-Regression/blob/Implementation-Screenshots/preview8.png)
+
 
 
 
