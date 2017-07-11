@@ -2,9 +2,9 @@
 
 #Reading CSV File 
 library(readr)
-LR_car_sales <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
+cars <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
 #View imported Data
-View(LR_car_sales)
+View(cars)
 data(cars)
 #Checking Number of Rows
 nrow(cars)
