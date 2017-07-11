@@ -2,10 +2,10 @@
 rm(list = ls()) 
 #Reading CSV File 
 library(readr)
-cars <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
+cars <- read_csv("~/Desktop/Data Science/cars.csv")
 #View imported Data
-View(cars)
-data(cars)
+#View(cars)
+#data(cars)
 head(cars)
 tail(cars)
 #Checking Number of Rows
@@ -14,17 +14,19 @@ nrow(cars)
 ncol(cars)
 #Checking Column Names
 names(cars)
+# Renaming the column name
+#Colnames(cars)[colnames(cars)== "speed"] <- "speed"
+#names(cars)
 #Checking Summary(Mean, Mode, Median)
 summary(cars)
 #Check missing values
-is.na(cars)
-is.na(cars$speed)
-is.na(cars$dist)
+#is.na(cars)
+#is.na(cars$speed)
+#is.na(cars$dist)
 na.omit(cars)
 #Check linear trend by ploting graph
 plot(cars$speed)
 plot(cars$dist,col="red")
-plot(cars$dist,cars$speed,col=5)
 #Check outliers by ploting Box Plot Graph
 boxplot(cars$speed)
 boxplot(cars$dist)
