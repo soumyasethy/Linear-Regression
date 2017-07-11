@@ -1,9 +1,13 @@
 #Reading CSV File 
 library(readr)
-LR_car_sales <- read_csv("~/Desktop/Data Science/LR_car_sales.csv")
+cars <- read_csv("~/Desktop/Data Science/cars.csv")
 #View imported Data
-View(LR_car_sales)
-data(cars)
+View(cars)
+#data(cars)
+#Top 6 Data Preview
+head(cars)
+#Last 6 Data Preview
+tail(cars)
 #Checking Number of Rows
 nrow(cars)
 #Checking Number of Columns
@@ -15,6 +19,7 @@ summary(cars)
 #Check missing values
 is.na(cars)
 is.na(cars$speed)
+#Omitting NA Values
 is.na(cars$dist)
 #Check linear trend by ploting graph
 plot(cars$speed)
