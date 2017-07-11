@@ -5,9 +5,9 @@ Simple Linear Regression Model is also called as Linear Regression Model or Regr
 ## Getting Started
 **For Applying SLR,**  
 
-Data Type must be ***Numeric*** or ***Continuous***.
-There should be ***One dependent variable and One independent variable***
-The Linear relation between two variables which is a relation between dependent and independent variable.
+Data Type must be ***Numeric*** or ***Continuous***.  
+There should be ***One dependent variable and One independent variable***  
+The Linear relation between two variables which is a relation between dependent and independent variable.  
 
 ***Note: In SLR the model can have only one dependent variable and one independent variable.***  
 
@@ -30,7 +30,7 @@ Both variable must be Numeric & Continuous
 ### SLR using R,
 We create a relationship model using the lm() functions in R,  
   
-**fit <- lm(formula=speed~dist,data=cars)**  
+** fit <- lm(formula=speed~dist,data=cars) **  
   
   
 Basically we are looking for R-squared measure just to see how close the data are to the fitted regression line. It is also known as the coefficient of determination. 
